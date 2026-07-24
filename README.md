@@ -1,5 +1,4 @@
 # Guess-the-number
-A simple number guessing game written in C++.
 #include <iostream>
 #include <cstdlib>
 #include <ctime>
